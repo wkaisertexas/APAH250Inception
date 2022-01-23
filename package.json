@@ -1,0 +1,19 @@
+{
+  "name": "APAH250Inception",
+  "version": "1.0.0",
+  "description": "So, AP Art History is a class that I really enjoyed my Junior year of high school, giving me a perspective for art, despite taking a pretty fat L on the AP test.",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "got": "^10.4.0",
+    "jsdom": "^16.2.2",
+    "mosaic-node-generator": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
