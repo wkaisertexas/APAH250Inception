@@ -7,7 +7,7 @@ So, I wanted to be able to AP Art History efy any image that I wanted to. More t
 
 The library that just made this a breeze was [Node Mosaic Generator](https://github.com/Dellos7/mosaic-node-generator).
 
-A simple web-scraper that I wrote got all of the AP Art History images (and their descriptions) from Smart History's [website] (https://smarthistory.org/required-works-for-ap/).
+A simple web-scraper that I wrote got all of the AP Art History images (and their descriptions) from Smart History's [website](https://smarthistory.org/required-works-for-ap/).
 
 Then it is just a matter of compute time.
 
